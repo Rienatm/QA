@@ -1,4 +1,4 @@
-# QA
+# QA study projects
 File 1: Rienat Apache JMeter5.5.jmx for Apache JMeter 5.5. (stress test, load test, response speed)
 File 2: Rienat.postman_cycle.json for Postman
    1.Create a user.
